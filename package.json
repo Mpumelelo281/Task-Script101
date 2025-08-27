@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mpumelelo281/Task-Script101/issues"
   },
-  "homepage": "https://github.com/Mpumelelo281/Task-Script101#readme"
+  "homepage": "https://github.com/Mpumelelo281/Task-Script101#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
