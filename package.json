@@ -1,0 +1,20 @@
+{
+  "name": "task-script101",
+  "version": "1.0.0",
+  "description": "task-script101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpumelelo281/Task-Script101.git"
+  },
+  "keywords": [],
+  "author": "Mpumelelo Ngobese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mpumelelo281/Task-Script101/issues"
+  },
+  "homepage": "https://github.com/Mpumelelo281/Task-Script101#readme"
+}
